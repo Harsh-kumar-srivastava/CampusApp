@@ -10,7 +10,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-
         val firstyear = findViewById<Button>(R.id.firstyear)
         firstyear.setOnClickListener(){
 
@@ -37,10 +36,5 @@ class MainActivity : AppCompatActivity() {
             val intent= Intent(this, SecondActivity::class.java)
             startActivity(intent)
         }
-
-
-
     }
-
-
 }
