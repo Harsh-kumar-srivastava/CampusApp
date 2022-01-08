@@ -4,128 +4,26 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/my_gradient_drawable"
+    android:padding="10dp"
     tools:context=".MainActivity">
 
-    <ImageView
-        android:id="@+id/imageView11"
-        android:layout_width="416dp"
-        android:layout_height="263dp"
-        android:scaleType="centerCrop"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/bg" />
-
-    <ImageView
-        android:id="@+id/imageView2"
-        android:layout_width="324dp"
-        android:layout_height="178dp"
-        android:layout_marginTop="40dp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.494"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/iert" />
-
-    <ImageView
-        android:id="@+id/imageView3"
-        android:layout_width="155dp"
-        android:layout_height="141dp"
-        android:layout_marginBottom="68dp"
-        app:layout_constraintBottom_toTopOf="@+id/imageView5"
-        app:layout_constraintEnd_toStartOf="@+id/imageView4"
-        app:layout_constraintHorizontal_bias="0.709"
-        app:layout_constraintStart_toStartOf="parent"
-        app:srcCompat="@drawable/imag" />
-
-    <ImageView
-        android:id="@+id/imageView4"
-        android:layout_width="158dp"
-        android:layout_height="144dp"
-        android:layout_marginEnd="36dp"
-        android:layout_marginBottom="16dp"
-        app:layout_constraintBottom_toTopOf="@+id/imageView8"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView"
-        app:layout_constraintVertical_bias="0.0"
-        app:srcCompat="@drawable/image1" />
-
-    <Button
-        android:id="@+id/thirdyear"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="4dp"
-        android:text="3rd year"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toStartOf="@+id/fourthyear"
-        app:layout_constraintHorizontal_bias="0.503"
-        app:layout_constraintStart_toStartOf="parent" />
-
-    <ImageView
-        android:id="@+id/imageView5"
-        android:layout_width="152dp"
-        android:layout_height="149dp"
-        android:layout_marginBottom="52dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toStartOf="@+id/imageView8"
-        app:layout_constraintHorizontal_bias="0.886"
-        app:layout_constraintStart_toStartOf="parent"
-        app:srcCompat="@drawable/image2" />
-
-    <Button
-        android:id="@+id/fourthyear"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginEnd="64dp"
-        android:layout_marginBottom="4dp"
-        android:text="4th year"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent" />
-
-    <ImageView
-        android:id="@+id/imageView8"
-        android:layout_width="170dp"
-        android:layout_height="161dp"
-        android:layout_marginEnd="36dp"
-        android:layout_marginBottom="44dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:srcCompat="@drawable/imagesg" />
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="329dp"
-        android:layout_height="63dp"
-        android:layout_marginTop="4dp"
-        android:text="Institute of Engineering and Rural Technology"
-        android:textColor="@color/black"
-        android:textSize="24sp"
-        android:textStyle="bold|italic"
+        android:layout_width="226dp"
+        android:layout_height="94dp"
+        android:layout_marginStart="85dp"
+        android:layout_marginTop="294dp"
+        android:layout_marginEnd="90dp"
+        android:text="timetable"
+        android:elevation="5dp"
+        android:fontFamily="casual"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:textSize="50sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView11" />
-
-    <Button
-        android:id="@+id/firstyear"
-        android:layout_width="115dp"
-        android:layout_height="48dp"
-        android:layout_marginBottom="20dp"
-        android:text="1st year"
-        app:layout_constraintBottom_toTopOf="@+id/imageView5"
-        app:layout_constraintEnd_toStartOf="@+id/secondyear"
-        app:layout_constraintHorizontal_bias="0.488"
-        app:layout_constraintStart_toStartOf="parent" />
-
-    <Button
-        android:id="@+id/secondyear"
-        android:layout_width="111dp"
-        android:layout_height="46dp"
-        android:layout_marginEnd="64dp"
-        android:layout_marginBottom="172dp"
-        android:text="2nd year"
-        app:layout_constraintBottom_toTopOf="@+id/fourthyear"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView4"
-        tools:ignore="TouchTargetSizeCheck" />
+        app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
