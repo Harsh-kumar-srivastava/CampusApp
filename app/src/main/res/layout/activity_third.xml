@@ -4,8 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/white"
     android:padding="8dp"
-    android:background="@drawable/my_gradient_drawable"
     tools:context=".ThirdActivity">
 
 
@@ -43,7 +43,7 @@
             android:fontFamily="cursive"
             android:text="06-JAN-2022"
             android:textAlignment="center"
-            android:textColor="@android:color/white"
+            android:textColor="@color/black"
             android:textSize="20sp"
             android:textStyle="bold" />
 
@@ -56,7 +56,7 @@
             android:fontFamily="cursive"
             android:text="MONDAY"
             android:textAlignment="center"
-            android:textColor="@android:color/white"
+            android:textColor="@color/black"
             android:textSize="20sp"
             android:textStyle="bold" />
 
@@ -69,7 +69,7 @@
             android:fontFamily="cursive"
             android:text="22:31"
             android:textAlignment="center"
-            android:textColor="@android:color/white"
+            android:textColor="@color/black"
             android:textSize="20sp"
             android:textStyle="bold" />
 
