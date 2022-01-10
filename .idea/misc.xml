@@ -8,10 +8,22 @@
         <entry key="..\:/CollegeTimeTable/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
         <entry key="..\:/CollegeTimeTable/app/src/main/res/layout/activity_second.xml" value="0.20416666666666666" />
         <entry key="..\:/CollegeTimeTable/app/src/main/res/layout/activity_third.xml" value="0.18854166666666666" />
-        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CollegeTimeTable/app/src/main/res/layout/activity_home.xml" value="0.2" />
-        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CollegeTimeTable/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CollegeTimeTable/app/src/main/res/drawable-small-notlong-anydpi-notouch/drawable_xxhdpi.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CollegeTimeTable/app/src/main/res/drawable/my_gradient_drawable.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CollegeTimeTable/app/src/main/res/layout/activity_eighth.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CollegeTimeTable/app/src/main/res/layout/activity_eleventh.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CollegeTimeTable/app/src/main/res/layout/activity_fifth.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CollegeTimeTable/app/src/main/res/layout/activity_fourth.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CollegeTimeTable/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CollegeTimeTable/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CollegeTimeTable/app/src/main/res/layout/activity_ninth.xml" value="0.176" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CollegeTimeTable/app/src/main/res/layout/activity_second.xml" value="0.264" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CollegeTimeTable/app/src/main/res/layout/activity_seconds.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CollegeTimeTable/app/src/main/res/layout/activity_seventh.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CollegeTimeTable/app/src/main/res/layout/activity_sixth.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CollegeTimeTable/app/src/main/res/layout/activity_tenth.xml" value="0.23645833333333333" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CollegeTimeTable/app/src/main/res/layout/activity_third.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CollegeTimeTable/app/src/main/res/layout/activity_twelveth.xml" value="0.176" />
       </map>
     </option>
   </component>
